@@ -1,0 +1,14 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "Learning nodejs on KhoaPham",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Xuyen. Bui",
+  "license": "ISC"
+}
